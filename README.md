@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Abhishekmohan7171/Abhishekmohan7171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +15,12 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Abhishek Mohan 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ## About Me
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning React JS and Power BI
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Angular, Node, JavaScript, Python, Firebase, and Figma
-- 📫 How to reach me: [abhishekmohan@example.com]
+- 📫 How to reach me: [abhishekmohan7171@gmail.com]
 
 ## Skills and Tools
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -44,4 +39,10 @@ Here are some ideas to get you started:
 
 ## Connect with Me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/a1ptIlg8aCq00WTVP0" width="100"/>
+</div>
 
