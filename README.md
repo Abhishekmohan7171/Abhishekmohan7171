@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React JS and Power BI
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Angular, Node, JavaScript, Python, Firebase, and Figma
-- 📫 How to reach me: [abhishekmohan7171@gmail.com]
+- 📫 How to reach me: abhishekmohan7171@gmail.com
 
 ## Skills and Tools
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-
+<!--
 <div id="header" align="center">
   <img src="https://giphy.com/embed/a1ptIlg8aCq00WTVP0" width="100"/>
 </div>
-
+-->
