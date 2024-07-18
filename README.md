@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Abhishek Mohan 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## About Me
 - 🔭 I’m currently working on [project]
 - 🌱 I’m currently learning React JS and Power BI
@@ -40,5 +44,5 @@ Here are some ideas to get you started:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhishekmohan7171)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
 
