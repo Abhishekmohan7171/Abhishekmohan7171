@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning React JS and Power BI
+- 🌱 I’m currently learning React JS , Power BI and Ionic
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about Angular, Node, JavaScript, Python, Firebase, and Figma
 - 📫 How to reach me: abhishekmohan7171@gmail.com
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ## Currently Learning
 ![React JS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-%234608B1.svg?style=for-the-badge&logo=ionic&logoColor=white)
 
 ## GitHub Stats
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhishekmohan7171)
